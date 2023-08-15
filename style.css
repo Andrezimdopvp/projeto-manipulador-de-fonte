@@ -1,0 +1,19 @@
+
+#reg{
+    background-color: aquamarine;
+}
+#pe{
+    background-color: gray;
+    color: blanchedalmond;
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 63%;
+}
+
+#Camera{
+    width: 300px;
+    height: 300px;
+    border-style: ridge;
+    box-shadow: 20px;
+    background-color: black;
+}
